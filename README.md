@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub repository!
+
+As an AWS Solution Architect working for a large scale government agency, I have extensive experience designing and implementing solutions using Amazon Web Services. In this repository, you will find a collection of projects and code examples that demonstrate my skills and expertise in various AWS services, including EC2, S3, Lambda, and more.
+
+These examples are intended to showcase my knowledge of best practices and to provide practical guidance for other developers working with AWS. Whether you're a seasoned AWS developer or just getting started, I hope you find these resources helpful in your work. Feel free to reach out with any questions or feedback!
+
 <!--
 **abumuinuddin/abumuinuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
